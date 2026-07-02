@@ -1,49 +1,51 @@
-# 🌍 idade_paises (Ages and Country)
+# 🌍 idade_paises (Ages and Countries)
 
-Uma aplicação de linha de comando (CLI) desenvolvida em Dart projetada para expectativa de vida ou dados demográficos de diferentes países.
-
----
-
-## 🚀 Funcionalidades
-
-* **[Funcionalidade 1]**: Consulta de expectativa de vida por país.
-* **[Funcionalidade 2]**: Comparação de dados demográficos entre duas nações.
-* **[Funcionalidade 3]**: Interface limpa e direta via terminal.
+A Command-Line Interface (CLI) application developed in Dart to provide life expectancy and demographic data for different countries.
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## 🚀 Features
 
-O projeto foi construído utilizando o ecossistema Dart:
-
-* **[Dart SDK](https://dart.dev/)**: `>=3.11.1 <4.0.0`
-* **[path](https://pub.dev/packages/path)**: Manipulação de caminhos de arquivos de forma segura.
-* **[lints](https://pub.dev/packages/lints)**: Boas práticas e padronização do código (Análise estática).
-* **[test](https://pub.dev/packages/test)**: Framework para testes unitários.
+- 🌎 **Life Expectancy Lookup:** Retrieve life expectancy information by country.
+- 📊 **Country Comparison:** Compare demographic data between two countries.
+- 🖥️ **Simple CLI Interface:** Clean and straightforward terminal-based interaction.
 
 ---
 
-## 📁 Estrutura do Projeto
+## 🛠️ Technologies Used
+
+This project was built using the Dart ecosystem:
+
+- **[Dart SDK](https://dart.dev/):** `>=3.11.1 <4.0.0`
+- **[path](https://pub.dev/packages/path):** Cross-platform file path manipulation.
+- **[lints](https://pub.dev/packages/lints):** Official Dart lint rules for code quality and static analysis.
+- **[test](https://pub.dev/packages/test):** Unit testing framework.
+
+---
+
+## 📁 Project Structure
 
 ```text
 ├── bin/
-│   └── idade_paises.dart    # Ponto de entrada do aplicativo (main)
+│   └── idade_paises.dart    # Application entry point (main)
 ├── lib/
-│   └── ...                  # Regras de negócio e funções auxiliares
+│   └── ...                  # Business logic and helper functions
 ├── test/
-│   └── ...                  # Testes automatizados
-├── pubspec.yaml             # Configuração de dependências
-└── README.md                # Documentação do projeto
+│   └── ...                  # Automated tests
+├── pubspec.yaml             # Dependency configuration
+└── README.md                # Project documentation
+```
+
 ---
 
-## 👨‍💻 Desenvolvedor
+## 👨‍💻 Developer
 
 **Nicolas**
 
-Desenvolvedor Mobile em formação, estudando Dart e Flutter e buscando criar aplicações modernas e escaláveis.
+Aspiring Mobile Developer passionate about Dart and Flutter, focused on building modern, scalable, and high-quality applications.
 
-GitHub: https://github.com/mine081
+**GitHub:** https://github.com/mine081
 
 ---
 
-⭐ Se gostou do projeto, deixe uma estrela no repositório!
+⭐ If you enjoyed this project, don't forget to leave a star on the repository!
